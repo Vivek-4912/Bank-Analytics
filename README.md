@@ -37,6 +37,34 @@ The **Bank Analytics Project** focuses on analyzing banking and loan-related dat
 
 ---
 
+## 📊 Dashboard Screenshots
+
+### 🔹 Excel Dashboard
+<img width="1232" height="701" alt="Screenshot 2026-01-28 185556" src="https://github.com/user-attachments/assets/e85794d5-244c-4bbd-b3a9-a7ae9d10b79d" />
+
+
+---
+
+### 🔹 Power Bi Dashboard
+<img width="1293" height="741" alt="Screenshot 2026-01-28 185502" src="https://github.com/user-attachments/assets/937db5d2-b663-42a5-8886-c19dd39856e9" />
+
+
+---
+
+### 🔹 Tablaue Dashboard
+<img width="1164" height="559" alt="Screenshot 2026-01-28 185539" src="https://github.com/user-attachments/assets/6d0e2840-fd92-4c6f-bd74-3d179feeae86" />
+
+
+---
+
+### 🔹 SQL Queries for KPI Analysis
+<img width="1160" height="452" alt="Screenshot 2026-01-28 185610" src="https://github.com/user-attachments/assets/a9f9b664-c770-4567-806f-d1f6ae115101" />
+<img width="1243" height="695" alt="Screenshot 2026-01-28 185621" src="https://github.com/user-attachments/assets/8e36b705-5581-43f9-b24b-5122d2416a1d" />
+
+
+
+---
+
 ## 📂 Project Files
 - `Excel dashboard.xlsx` – Excel-based analytics dashboard  
 - `BankAnalytics_proj.sql` – SQL queries used for KPI analysis  
@@ -56,9 +84,3 @@ The **Bank Analytics Project** focuses on analyzing banking and loan-related dat
 
 ## 📌 Conclusion
 This project demonstrates practical experience in **data analysis, KPI evaluation, and dashboard creation** within the banking domain. It highlights the ability to transform raw financial data into actionable insights using modern BI tools.
-
----
-
-
-
-
